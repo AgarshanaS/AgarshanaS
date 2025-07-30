@@ -1,19 +1,16 @@
 <h1 align="center">Hi 👋, I'm Agarshana</h1>
-<h3 align="center">Aspiring Full Stack Developer | GIS & Real-Time Systems Enthusiast</h3>
+<h3 align="center">Aspiring Full Stack Developer</h3>
 
 <p align="center">
 🌍 Passionate about building intelligent, scalable web apps<br>
 🚀 Exploring Full Stack Development (MERN & Spring Boot)<br>
-📊 Working on real-time projects like automated bus scheduling using GIS & ML
 </p>
 
 ---
 
 ### 🔭 Projects I'm Currently Working On
 
-- 🚍 [Automated Bus Scheduler using MERN Stack](https://github.com/AgarshanaS/MERN.git)
-- 🧠 Real-time systems integration with **GIS data** and **ML/Neural Networks**
-- 🌐 Exploring how to create impactful full-stack apps that solve real-world issues
+- 🚍 MERN Stack(https://github.com/AgarshanaS/MERN.git)
 
 ---
 
@@ -68,8 +65,8 @@
 ### 🧠 Fun Facts
 
 - I love turning messy data into meaningful insights 🌐
-- I dream of building smart systems that assist transport and public infrastructure 🚦
-- I'm always up for learning and collaborating on open-source projects 🤝
+- I dream of building smart applications with high-end security
+- I'm always up for learning and upskilling my ideas.
 
 ---
 
